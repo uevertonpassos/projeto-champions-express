@@ -6,7 +6,6 @@ const port = process.env.PORT;
 
 const app = createApp();
 
-app.listen(port, ()=>{
-    console.log(`$Servidor iniciado no endereço http://localhost:${port}/`)
-})
-
+app.listen(port, () => {
+    console.log(`Servidor iniciado no endereço http://localhost:${port}/`);
+});

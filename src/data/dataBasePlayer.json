@@ -1,8 +1,8 @@
  [
     { "id": 1, "name": "Ronaldo", "velocidade": 91, "chute": 93, "passe": 82, "drible": 88, "defesa": 35, "físico": 75, "clube": "Al-Nassr" },
-    { "id": 2, "name": "Messi", "velocidade": 85, "chute": 92, "passe": 91, "drible": 95, "defesa": 34, "físico": 65, "clube": "Inter Miami" },
+    { "id": 2, "name": "Messi batata", "velocidade": 85, "chute": 92, "passe": 91, "drible": 95, "defesa": 34, "físico": 65, "clube": "Inter Miami" },
     { "id": 3, "name": "Kylian Mbappé", "velocidade": 97, "chute": 89, "passe": 80, "drible": 92, "defesa": 39, "físico": 77, "clube": "Paris Saint-Germain" },
-    { "id": 4, "name": "Kevin De Bruyne", "velocidade": 74, "chute": 86, "passe": 93, "drible": 87, "defesa": 64, "físico": 78, "clube": "Manchester City" },
+    { "id": 4, "name": "Kevin De Bruyn", "velocidade": 74, "chute": 86, "passe": 93, "drible": 87, "defesa": 64, "físico": 78, "clube": "Manchester City" },
     { "id": 5, "name": "Robert Lewandowski", "velocidade": 75, "chute": 91, "passe": 79, "drible": 86, "defesa": 44, "físico": 82, "clube": "Barcelona" },
     { "id": 6, "name": "Neymar Jr.", "velocidade": 91, "chute": 85, "passe": 83, "drible": 94, "defesa": 32, "físico": 58, "clube": "Al-Hilal" },
     { "id": 7, "name": "Mohamed Salah", "velocidade": 93, "chute": 89, "passe": 81, "drible": 90, "defesa": 45, "físico": 75, "clube": "Liverpool" },

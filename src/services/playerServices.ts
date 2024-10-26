@@ -17,9 +17,9 @@ export const addPlayerService = async (player: playerModel) => {
 
         await repository.setPlayer(player)
 
-        return "Jogdor Criado com Sucesso"
+        return "Jogador Criado com Sucesso"
     }else{
-        return " Opçõa Inválida: Insira um jogagor "
+        return " Opçõa Inválida: Insira um jogador "
     }
 
 }

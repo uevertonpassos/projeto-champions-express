@@ -1,9 +1,12 @@
 {
   "compilerOptions": {
     "target": "ES6",
-    "module": "commonjs",  
-    "outDir": "./dist",                              
-    "esModuleInterop": true,                             
-    "strict": true,                                                                      
-  }
+    "module": "commonjs",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "strict": true
+  },
+  "include": [
+    "src/**/*" // Inclui todos os arquivos na pasta src
+  ]
 }
