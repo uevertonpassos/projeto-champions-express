@@ -176,12 +176,12 @@ const router = Router();
  *         description: Jogador não encontrado
  */
 
-// Rota protegida
+// rota protegida (adicionar quantas forem necessários para proteger as rotas)
 router.get('/protected', verifyToken, (req, res) => {
     res.json({ message: "Você acessou uma rota protegida!", userId: req.userId });
 });
 
-// Adicionando as rotas
+
 router.get('/player', playerController.getPlayer);
 router.get('/player/:id', playerController.getPlayerById);
 router.post('/player', playerController.postPlayer);
